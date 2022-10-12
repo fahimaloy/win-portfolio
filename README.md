@@ -1,3 +1,8 @@
+### Warning:Some of the features are under development.
+# Live Demo: [Click Here](https://fahimaloy-win.onrender.com/)
+
+## Used Technologies
+- Vue JS
 # Windows10
 
 This template should help get you started developing with Vue 3 in Vite.
