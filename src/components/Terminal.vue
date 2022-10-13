@@ -12,7 +12,7 @@
             </div>
           </div>
           <div class="panel-inner">
-            <iframe src="http://fahimaloy.herokuapp.com/"
+            <iframe src="https://fahimaloy.herokuapp.com/"
             width="98%"
             height="650px"></iframe>
         </div>        
