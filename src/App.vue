@@ -31,6 +31,6 @@ onMounted(()=>{
 <template>
 <Loading  v-if="loading" /> 
 <!-- <button style="position:absolute;top:999999px;" id="fullscreenbutton" @click="openFullscreen" v-if="loading"></button> -->
-<HomeView @mousemoveh="openFullscreen" v-else @contextmenu.prevent="openCustomContextMenu"/>
+<HomeView @mousemove="openFullscreen" v-else @contextmenu.prevent="openCustomContextMenu"/>
 </template>
 
